@@ -1,63 +1,11 @@
 [
   {
-    "url": "https://api.github.com/repos/angular/angular/issues/29972",
-    "repository_url": "https://api.github.com/repos/angular/angular",
-    "labels_url": "https://api.github.com/repos/angular/angular/issues/29972/labels{/name}",
-    "comments_url": "https://api.github.com/repos/angular/angular/issues/29972/comments",
-    "events_url": "https://api.github.com/repos/angular/angular/issues/29972/events",
-    "html_url": "https://github.com/angular/angular/pull/29972",
-    "id": 434635140,
-    "node_id": "MDExOlB1bGxSZXF1ZXN0MjcxNTg0MTY4",
-    "number": 29972,
-    "title": "refactor: Removed Mr. and Ms. Gender Prefixes",
-    "user": {
-      "login": "jkasun",
-      "id": 19645544,
-      "node_id": "MDQ6VXNlcjE5NjQ1NTQ0",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/19645544?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/jkasun",
-      "html_url": "https://github.com/jkasun",
-      "followers_url": "https://api.github.com/users/jkasun/followers",
-      "following_url": "https://api.github.com/users/jkasun/following{/other_user}",
-      "gists_url": "https://api.github.com/users/jkasun/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/jkasun/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/jkasun/subscriptions",
-      "organizations_url": "https://api.github.com/users/jkasun/orgs",
-      "repos_url": "https://api.github.com/users/jkasun/repos",
-      "events_url": "https://api.github.com/users/jkasun/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/jkasun/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "labels": [
-      {
-        "id": 149476251,
-        "node_id": "MDU6TGFiZWwxNDk0NzYyNTE=",
-        "url": "https://api.github.com/repos/angular/angular/labels/cla:%20yes",
-        "name": "cla: yes",
-        "color": "009800",
-        "default": false
-      }
-    ],
+    "url": "https://github.com/KovalykVolodymyr/Data/edit/master/dataforTable.json"
+    "id": 12,
+    "title": "huj",
     "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 0,
-    "created_at": "2019-04-18T07:48:10Z",
-    "updated_at": "2019-04-18T07:48:27Z",
-    "closed_at": null,
-    "author_association": "NONE",
-    "pull_request": {
-      "url": "https://api.github.com/repos/angular/angular/pulls/29972",
-      "html_url": "https://github.com/angular/angular/pull/29972",
-      "diff_url": "https://github.com/angular/angular/pull/29972.diff",
-      "patch_url": "https://github.com/angular/angular/pull/29972.patch"
-    },
+    "created_at": "efwew",
+    "updated_at": "fwefwe",
     "body": "Closes #25643\r\n\r\n## PR Checklist\r\nPlease check if your PR fulfills the following requirements:\r\n\r\n- [x] The commit message follows our guidelines: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit\r\n- [x] Tests for the changes have been added (for bug fixes / features)\r\n- [x] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n## PR Type\r\nWhat kind of change does this PR introduce?\r\n\r\n<!-- Please check the one that applies to this PR using \"x\". -->\r\n\r\n- [ ] Bugfix\r\n- [ ] Feature\r\n- [ ] Code style update (formatting, local variables)\r\n- [x] Refactoring (no functional changes, no api changes)\r\n- [ ] Build related changes\r\n- [ ] CI related changes\r\n- [ ] Documentation content changes\r\n- [ ] angular.io application / infrastructure changes\r\n- [ ] Other... Please describe:\r\n\r\n\r\n## What is the current behavior?\r\n<!-- Please describe the current behavior that you are modifying, or link to a relevant issue. -->\r\n\r\nIssue Number: #25643\r\n\r\n## What is the new behavior?\r\n\r\n\r\n## Does this PR introduce a breaking change?\r\n\r\n- [ ] Yes\r\n- [x] No\r\n\r\n## Other information\r\n"
   },
   {
